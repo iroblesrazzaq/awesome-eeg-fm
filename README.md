@@ -104,4 +104,5 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ### 2025
 
 - **NeuroTTT: Bridging Pretraining-Downstream Task Misalignment in EEG Foundation Models via Test-Time Training**
+
   [paper](https://arxiv.org/abs/2509.26301) · *Wang, Deng, Bao, Zhan, Duan* (arXiv 2025; [arXiv:2509.26301](https://arxiv.org/abs/2509.26301)) · [code](https://github.com/wsl2000/NeuroTTT)
