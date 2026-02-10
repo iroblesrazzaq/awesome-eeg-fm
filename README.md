@@ -96,3 +96,12 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ### 2023
 - **BrainBERT: Self-supervised Representation Learning for Intracranial Recordings**  
   [paper](https://arxiv.org/abs/2302.14367) · *Wang et al.* (ICLR 2023; [arXiv:2302.14367](https://arxiv.org/abs/2302.14367))
+
+---
+
+## EEG Foundation Model Fine-Tuning
+
+### 2025
+
+- **NeuroTTT: Bridging Pretraining-Downstream Task Misalignment in EEG Foundation Models via Test-Time Training** 
+  [paper](https://arxiv.org/abs/2509.26301) · *Wang, Deng, Bao, Zhan, Duan* (arXiv 2025; [arXiv:2509.26301](https://arxiv.org/abs/2509.26301)) · [code](https://github.com/wsl2000/NeuroTTT)
