@@ -2,7 +2,7 @@
 
 A curated list of foundation models for brain signal foundation models, particularly EEG. This repository compiles SOTA EEG foundation models for analyzing, decoding, and predicting neural activity. Although the focus will be on foundation models themselves, EEG FM related work may be included.
 
-This repository is a work in progress and will be updated regularly. Current models are limited to EEG and multimodal EEG + X modalities. This is by no means a comprehensive list of all models, but includes quite a few. 
+This repository contains a subset of papers from my [EEG FM digest](https://iroblesrazzaq.github.io/EEG-FM-Digest/), which I recommend using to explore EEG FM papers. Current models are limited to EEG and multimodal EEG + X modalities. This is by no means a comprehensive list of all models, but includes quite a few. 
 
 If you have any suggestions or want to contribute, please open an issue or submit a pull request.
 
