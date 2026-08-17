@@ -114,6 +114,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
   [paper](https://openreview.net/forum?id=oUMiuYHW21) · *Chen et al.* (ICLR 2026 submission; OpenReview)
 
 ### 2025
+- **NeuroTTT: Bridging Pretraining-Downstream Task Misalignment in EEG Foundation Models via Test-Time Training**  
+  [paper](https://arxiv.org/abs/2509.26301) · *Suli Wang et al.* (arXiv 2025; [arXiv:2509.26301](https://arxiv.org/abs/2509.26301)) · [code](https://github.com/wsl2000/NeuroTTT)
+
 - **Automatic detection of abnormal clinical EEG: comparison of a finetuned foundation model with two deep learning models**  
   [paper](https://arxiv.org/abs/2505.21507) · *Aurore Bussalb et al.* (arXiv 2025; [arXiv:2505.21507](https://arxiv.org/abs/2505.21507))
 
