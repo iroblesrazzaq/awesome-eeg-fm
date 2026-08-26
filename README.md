@@ -11,6 +11,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **Taming foundation model with invariance-oriented pre-training for broad-spectrum EEG analysis across signal-level, brain-state, and brain-health tasks**  
+  [paper](https://arxiv.org/abs/2608.24597) · *Yulong Dou et al.* (arXiv 2026; [arXiv:2608.24597](https://arxiv.org/abs/2608.24597))
+
 - **B[FM]$^2$: Brain Foundation Model via Flow Matching with SplitUNet**  
   [paper](https://arxiv.org/abs/2606.20812) · *Jaedong Hwang et al.* (arXiv 2026; [arXiv:2606.20812](https://arxiv.org/abs/2606.20812)) · [code](https://jd730.github.io/projects/BFM2)
 
