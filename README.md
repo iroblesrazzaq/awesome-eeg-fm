@@ -11,6 +11,21 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **ERP-FM: A Foundation Model for Universal ERP Analysis**  
+  [paper](https://arxiv.org/abs/2609.32796) · *Yihe Wang et al.* (arXiv 2026; [arXiv:2609.32796](https://arxiv.org/abs/2609.32796)) · [code](https://github.com/DL4mHealth/ERP-FM)
+
+- **iBrain: A Unified Foundation Model Reading the Brain from Surface to Spikes**  
+  [paper](https://arxiv.org/abs/2609.06960) · *Ying Chen et al.* (arXiv 2026; [arXiv:2609.06960](https://arxiv.org/abs/2609.06960))
+
+- **MANAS-2: Constrained Reconstruction for EEG Foundation Models**  
+  [paper](https://arxiv.org/abs/2609.13717) · *Arvasu Kulkarni et al.* (arXiv 2026; [arXiv:2609.13717](https://arxiv.org/abs/2609.13717))
+
+- **Neural State Prediction: Obstructing Shortcut Learning in EEG Foundation Models**  
+  [paper](https://arxiv.org/abs/2609.31167) · *Kieren Yu et al.* (arXiv 2026; [arXiv:2609.31167](https://arxiv.org/abs/2609.31167))
+
+- **Pretraining for Sample-Efficient Neural Interfaces**  
+  [paper](https://arxiv.org/abs/2609.13507) · *Ben Tang et al.* (arXiv 2026; [arXiv:2609.13507](https://arxiv.org/abs/2609.13507)) · [code](https://github.com/bentang18/MAPA)
+
 - **Taming foundation model with invariance-oriented pre-training for broad-spectrum EEG analysis across signal-level, brain-state, and brain-health tasks**  
   [paper](https://arxiv.org/abs/2608.24597) · *Yulong Dou et al.* (arXiv 2026; [arXiv:2608.24597](https://arxiv.org/abs/2608.24597))
 
@@ -117,6 +132,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
   [paper](https://openreview.net/forum?id=oUMiuYHW21) · *Chen et al.* (ICLR 2026 submission; OpenReview)
 
 ### 2025
+- **An Efficient Self-Supervised Framework for Long-Sequence EEG Modeling**  
+  [paper](https://arxiv.org/abs/2502.17873) · *Jiazhen Hong et al.* (arXiv 2025; [arXiv:2502.17873](https://arxiv.org/abs/2502.17873))
+
 - **NeuroTTT: Bridging Pretraining-Downstream Task Misalignment in EEG Foundation Models via Test-Time Training**  
   [paper](https://arxiv.org/abs/2509.26301) · *Suli Wang et al.* (arXiv 2025; [arXiv:2509.26301](https://arxiv.org/abs/2509.26301)) · [code](https://github.com/wsl2000/NeuroTTT)
 
@@ -271,6 +289,12 @@ If you have any suggestions or want to contribute, please open an issue or submi
   [paper](https://arxiv.org/abs/2511.13733) · *Yang et al.* (NeurIPS 2025; [arXiv:2511.13733](https://arxiv.org/abs/2511.13733)) · [NeurIPS page](https://neurips.cc/virtual/2025/poster/119791) · [code](#)
 
 ### 2024
+- **Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder**  
+  [paper](https://arxiv.org/abs/2402.17433) · *Jiaqi Wang et al.* (arXiv 2024; [arXiv:2402.17433](https://arxiv.org/abs/2402.17433))
+
+- **Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**  
+  [paper](https://arxiv.org/abs/2412.09758) · *Yunfei Luo et al.* (arXiv 2024; [arXiv:2412.09758](https://arxiv.org/abs/2412.09758)) · [code](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear)
+
 - **BrainGPT: Unleashing the Potential of EEG Generalist Foundation Model by Autoregressive Pre-training**  
   [paper](https://arxiv.org/abs/2410.19779) · *Tongtian Yue et al.* (arXiv 2024; [arXiv:2410.19779](https://arxiv.org/abs/2410.19779))
 
