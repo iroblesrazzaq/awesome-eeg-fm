@@ -11,6 +11,21 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **A Deep Neural Network for Predicting Continuous Human EEG Across the Auditory Pathway in Response to Sound**  
+  [paper](https://arxiv.org/abs/2609.20595) · *Thomas J Stoll and Ross K Maddox* (arXiv 2026; [arXiv:2609.20595](https://arxiv.org/abs/2609.20595))
+
+- **DARE-EEG: A Foundation Model for Mining Dual-Aligned Representation of EEG**  
+  [paper](https://arxiv.org/abs/2605.18298) · *Yang Shao et al.* (arXiv 2026; [arXiv:2605.18298](https://arxiv.org/abs/2605.18298)) · [code](https://github.com/anonymous)
+
+- **Learning transferable human physiology from two million hours of sleep with SleepFM-2**  
+  [paper](https://arxiv.org/abs/2609.06849) · *Rahul Thapa et al.* (arXiv 2026; [arXiv:2609.06849](https://arxiv.org/abs/2609.06849))
+
+- **MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding**  
+  [paper](https://arxiv.org/abs/2605.24523) · *Zexuan Chen et al.* (arXiv 2026; [arXiv:2605.24523](https://arxiv.org/abs/2605.24523)) · [code](https://github.com/anon-eeg/eeg_image_decoding)
+
+- **PHASE: A Physiology-Guided Hierarchical Foundation Model for Intracranial EEG**  
+  [paper](https://arxiv.org/abs/2609.36087) · *Yipeng Zhang et al.* (arXiv 2026; [arXiv:2609.36087](https://arxiv.org/abs/2609.36087))
+
 - **ERP-FM: A Foundation Model for Universal ERP Analysis**  
   [paper](https://arxiv.org/abs/2609.32796) · *Yihe Wang et al.* (arXiv 2026; [arXiv:2609.32796](https://arxiv.org/abs/2609.32796)) · [code](https://github.com/DL4mHealth/ERP-FM)
 
