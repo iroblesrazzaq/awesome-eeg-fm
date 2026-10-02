@@ -11,6 +11,18 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **BandVQ: Band-Wise Vector-Quantized EEG Foundation Model**  
+  [paper](https://arxiv.org/abs/2605.24921) · *Jamiyan Sukhbaatar et al.* (arXiv 2026; [arXiv:2605.24921](https://arxiv.org/abs/2605.24921))
+
+- **Neonatal Hypoxic-ischaemic Encephalopathy Classification from the EEG and HRV Signals Using a Conformer based Masked Autoencoder**  
+  [paper](https://arxiv.org/abs/2607.23554) · *Shuwen Yu et al.* (arXiv 2026; [arXiv:2607.23554](https://arxiv.org/abs/2607.23554)) · [code](https://github.com/syu-kylin/MAEConformer)
+
+- **Omni-Sleep: A Sleep Foundation Model via Hierarchical Contrastive Learning of CNS-ANS Dynamics**  
+  [paper](https://arxiv.org/abs/2607.07720) · *Zhoujie Hou et al.* (arXiv 2026; [arXiv:2607.07720](https://arxiv.org/abs/2607.07720)) · [code](https://github.com/AutoBrain-sleep/OmniSleep)
+
+- **S-CEReBrO: Breaking the Memory Barrier in Continuous EEG Monitoring**  
+  [paper](https://arxiv.org/abs/2607.27913) · *Glenn Anta Bucagu et al.* (arXiv 2026; [arXiv:2607.27913](https://arxiv.org/abs/2607.27913)) · [code](available)
+
 - **A Deep Neural Network for Predicting Continuous Human EEG Across the Auditory Pathway in Response to Sound**  
   [paper](https://arxiv.org/abs/2609.20595) · *Thomas J Stoll and Ross K Maddox* (arXiv 2026; [arXiv:2609.20595](https://arxiv.org/abs/2609.20595))
 
