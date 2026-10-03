@@ -11,6 +11,15 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **EEG-PRIME: Prototype-Aligned Representation Learning with Multi-Level Conditioning for EEG Decoding**  
+  [paper](https://arxiv.org/abs/2608.13072) · *Shuailei Zhang et al.* (arXiv 2026; [arXiv:2608.13072](https://arxiv.org/abs/2608.13072)) · [code](https://github.com/ZhangShuailei/EEG-PRIME)
+
+- **Multimodal Pretraining for Generalizable EEG Representation Learning**  
+  [paper](https://arxiv.org/abs/2607.21384) · *Targol Bakhtiarvand et al.* (arXiv 2026; [arXiv:2607.21384](https://arxiv.org/abs/2607.21384))
+
+- **Understanding and Correcting Low-Frequency Bias in EEG Foundation Model**  
+  [paper](https://arxiv.org/abs/2608.01898) · *Junjie Yu et al.* (arXiv 2026; [arXiv:2608.01898](https://arxiv.org/abs/2608.01898))
+
 - **BandVQ: Band-Wise Vector-Quantized EEG Foundation Model**  
   [paper](https://arxiv.org/abs/2605.24921) · *Jamiyan Sukhbaatar et al.* (arXiv 2026; [arXiv:2605.24921](https://arxiv.org/abs/2605.24921))
 
