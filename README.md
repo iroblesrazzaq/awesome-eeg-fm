@@ -11,6 +11,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **Lightweight Semantic EEG Foundation Model for Frozen Cross-Disorder Transfer**  
+  [paper](https://arxiv.org/abs/2610.05503) · *Rita Huan-Ting Peng and Nhat Bui* (arXiv 2026; [arXiv:2610.05503](https://arxiv.org/abs/2610.05503))
+
 - **EEG-PRIME: Prototype-Aligned Representation Learning with Multi-Level Conditioning for EEG Decoding**  
   [paper](https://arxiv.org/abs/2608.13072) · *Shuailei Zhang et al.* (arXiv 2026; [arXiv:2608.13072](https://arxiv.org/abs/2608.13072)) · [code](https://github.com/ZhangShuailei/EEG-PRIME)
 
