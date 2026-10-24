@@ -11,6 +11,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **Does an EEG Foundation Model's Cross-Subject Advantage Survive Outside Its Pretraining Corpus?** (related work: evaluation)  
+  [paper](https://doi.org/10.5281/zenodo.23423535) · *Yiheng Li* (Zenodo technical report 2026) · [code](https://github.com/YihengLi-1/eeg-motor-imagery-decoding) · [pretraining-overlap table of 20 EEG FMs](https://github.com/YihengLi-1/eeg-motor-imagery-decoding/blob/main/docs/pretraining_overlap_eeg_fm.md)
+
 - **BrainCodes: A Lightweight EEG Foundation Model over Discrete Neural Codes**  
   [paper](https://arxiv.org/abs/2610.29320) · *Kleanthis Avramidis et al.* (arXiv 2026; [arXiv:2610.29320](https://arxiv.org/abs/2610.29320)) · [code](https://github.com/unknown)
 
