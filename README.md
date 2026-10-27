@@ -11,6 +11,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **NOMAD-EEG: Native Omni-Montage Adaptive Diffusion**  
+  [paper](https://arxiv.org/abs/2610.35246) · *Abdulkader Helwan et al.* (arXiv 2026; [arXiv:2610.35246](https://arxiv.org/abs/2610.35246))
+
 - **BrainCodes: A Lightweight EEG Foundation Model over Discrete Neural Codes**  
   [paper](https://arxiv.org/abs/2610.29320) · *Kleanthis Avramidis et al.* (arXiv 2026; [arXiv:2610.29320](https://arxiv.org/abs/2610.29320)) · [code](https://github.com/unknown)
 
