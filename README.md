@@ -11,6 +11,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **LaBraM at Scale: Scaling Data and Models for EEG Pretraining**  
+  [paper](https://arxiv.org/abs/2611.03165) · *Jun-Yu Pan et al.* (arXiv 2026; [arXiv:2611.03165](https://arxiv.org/abs/2611.03165)) · [code](https://github.com/LaBraM)
+
 - **NOMAD-EEG: Native Omni-Montage Adaptive Diffusion**  
   [paper](https://arxiv.org/abs/2610.35246) · *Abdulkader Helwan et al.* (arXiv 2026; [arXiv:2610.35246](https://arxiv.org/abs/2610.35246))
 
