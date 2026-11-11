@@ -11,6 +11,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models**  
+  [paper](https://arxiv.org/abs/2611.14035) · *Minyu Zhou et al.* (arXiv 2026; [arXiv:2611.14035](https://arxiv.org/abs/2611.14035))
+
 - **LaBraM at Scale: Scaling Data and Models for EEG Pretraining**  
   [paper](https://arxiv.org/abs/2611.03165) · *Jun-Yu Pan et al.* (arXiv 2026; [arXiv:2611.03165](https://arxiv.org/abs/2611.03165)) · [code](https://github.com/LaBraM)
 
