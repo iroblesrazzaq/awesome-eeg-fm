@@ -11,6 +11,12 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **CABrain: A Correlation-Aware Brain Foundation Model for EEG Decoding**  
+  [paper](https://arxiv.org/abs/2611.11782) · *SuGil Choi et al.* (arXiv 2026; [arXiv:2611.11782](https://arxiv.org/abs/2611.11782))
+
+- **PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals**  
+  [paper](https://arxiv.org/abs/2611.08969) · *Yanlong Chen et al.* (arXiv 2026; [arXiv:2611.08969](https://arxiv.org/abs/2611.08969)) · [code](https://github.com/ForeverBlue816/PhysioWave)
+
 - **ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models**  
   [paper](https://arxiv.org/abs/2611.14035) · *Minyu Zhou et al.* (arXiv 2026; [arXiv:2611.14035](https://arxiv.org/abs/2611.14035))
 
