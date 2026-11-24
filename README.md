@@ -11,6 +11,15 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **LingSante-Pulse: Unified Physiological Pretraining through Random-Feature Prediction and Cross-Modal Alignment**  
+  [paper](https://arxiv.org/abs/2611.27206) · *Linxiao Yang et al.* (arXiv 2026; [arXiv:2611.27206](https://arxiv.org/abs/2611.27206)) · [code](https://github.com/inclusionAI/LingSante-Pulse)
+
+- **Mind World Models: Joint Learning of Motor EEG Representations and Action-Conditioned World Dynamics**  
+  [paper](https://arxiv.org/abs/2611.27029) · *Weikang Qiu et al.* (arXiv 2026; [arXiv:2611.27029](https://arxiv.org/abs/2611.27029))
+
+- **Self-Supervised Learning with Recursive Quadrature Filters for Neural Time Series**  
+  [paper](https://arxiv.org/abs/2611.26856) · *Mirko Morello et al.* (arXiv 2026; [arXiv:2611.26856](https://arxiv.org/abs/2611.26856))
+
 - **CABrain: A Correlation-Aware Brain Foundation Model for EEG Decoding**  
   [paper](https://arxiv.org/abs/2611.11782) · *SuGil Choi et al.* (arXiv 2026; [arXiv:2611.11782](https://arxiv.org/abs/2611.11782))
 
