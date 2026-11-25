@@ -11,6 +11,15 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **EEG-World: Context-Conditioned Dynamics of the Watching Brain**  
+  [paper](https://arxiv.org/abs/2611.32825) · *Junxiang Zhang et al.* (arXiv 2026; [arXiv:2611.32825](https://arxiv.org/abs/2611.32825))
+
+- **EEGJev: A System One Decision Model and Benchmark for Multi-Task EEG Question Answering**  
+  [paper](https://arxiv.org/abs/2611.32100) · *Dengzhe Hou and Kazunori D. Yamada* (arXiv 2026; [arXiv:2611.32100](https://arxiv.org/abs/2611.32100)) · [code](https://github.com/EEGJev/EEGJev)
+
+- **SleepXA: Composing Pretrained Neural and Cardiac Foundation Models for Sleep Representation Learning**  
+  [paper](https://arxiv.org/abs/2611.29364) · *Xiaoyu Chen et al.* (arXiv 2026; [arXiv:2611.29364](https://arxiv.org/abs/2611.29364))
+
 - **LingSante-Pulse: Unified Physiological Pretraining through Random-Feature Prediction and Cross-Modal Alignment**  
   [paper](https://arxiv.org/abs/2611.27206) · *Linxiao Yang et al.* (arXiv 2026; [arXiv:2611.27206](https://arxiv.org/abs/2611.27206)) · [code](https://github.com/inclusionAI/LingSante-Pulse)
 
