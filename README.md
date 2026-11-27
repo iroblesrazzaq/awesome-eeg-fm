@@ -11,6 +11,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **PhyMind: Physics-Informed Masked Autoencoding for EEG Foundation Models**  
+  [paper](https://arxiv.org/abs/2611.28856) · *A Adith* (arXiv 2026; [arXiv:2611.28856](https://arxiv.org/abs/2611.28856)) · [code](https://github.com/PhyMind/PhyMind)
+
 - **EEG-World: Context-Conditioned Dynamics of the Watching Brain**  
   [paper](https://arxiv.org/abs/2611.32825) · *Junxiang Zhang et al.* (arXiv 2026; [arXiv:2611.32825](https://arxiv.org/abs/2611.32825))
 
